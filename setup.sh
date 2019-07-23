@@ -1,4 +1,4 @@
-# copy/paste this to get started
+# run these commands to get started
 
 sudo apt update
 sudo apt upgrade -y
